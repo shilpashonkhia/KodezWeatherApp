@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KodezWeatherApp", "KodezWeatherApp\KodezWeatherApp.csproj", "{D5C1B927-20B8-4551-A6B3-10F47F67ED51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KodezWeatherAppTest", "KodezWeatherAppTest\KodezWeatherAppTest.csproj", "{A3220267-3F72-44CE-A57C-907694B91D3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5C1B927-20B8-4551-A6B3-10F47F67ED51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C1B927-20B8-4551-A6B3-10F47F67ED51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C1B927-20B8-4551-A6B3-10F47F67ED51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C1B927-20B8-4551-A6B3-10F47F67ED51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3220267-3F72-44CE-A57C-907694B91D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3220267-3F72-44CE-A57C-907694B91D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3220267-3F72-44CE-A57C-907694B91D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3220267-3F72-44CE-A57C-907694B91D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8B4E647-964D-4CE1-811B-1CE210E23157}
+	EndGlobalSection
+EndGlobal

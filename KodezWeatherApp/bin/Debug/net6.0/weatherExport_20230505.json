@@ -1,0 +1,42 @@
+[
+  {
+    "Time": "2023-05-05",
+    "TemperatureLow": 27.7,
+    "TemperatureHigh": 28.6,
+    "TemperatureFahrenheitLow": 81.86,
+    "TemperatureFahrenheitHigh": 83.479996,
+    "Snowfall": 32
+  },
+  {
+    "Time": "2023-05-06",
+    "TemperatureLow": 27.7,
+    "TemperatureHigh": 28.5,
+    "TemperatureFahrenheitLow": 81.86,
+    "TemperatureFahrenheitHigh": 83.3,
+    "Snowfall": 32
+  },
+  {
+    "Time": "2023-05-07",
+    "TemperatureLow": 27.5,
+    "TemperatureHigh": 28.3,
+    "TemperatureFahrenheitLow": 81.5,
+    "TemperatureFahrenheitHigh": 82.94,
+    "Snowfall": 32
+  },
+  {
+    "Time": "2023-05-08",
+    "TemperatureLow": 27.8,
+    "TemperatureHigh": 28.7,
+    "TemperatureFahrenheitLow": 82.04,
+    "TemperatureFahrenheitHigh": 83.66,
+    "Snowfall": 32
+  },
+  {
+    "Time": "2023-05-09",
+    "TemperatureLow": 27.9,
+    "TemperatureHigh": 28.7,
+    "TemperatureFahrenheitLow": 82.22,
+    "TemperatureFahrenheitHigh": 83.66,
+    "Snowfall": 32
+  }
+]

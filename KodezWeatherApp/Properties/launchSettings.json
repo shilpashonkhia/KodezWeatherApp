@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KodezWeatherApp": {
+      "commandName": "Project",
+      "commandLineArgs": "5 1 1"
+    }
+  }
+}
